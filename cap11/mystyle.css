@@ -1,0 +1,15 @@
+body {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+#easel {
+  width: 600px;
+  margin: 0 auto;;
+  background-color: #eee;
+}
+
+#topo{
+  background-color: #ccc;
+  align-content: center;
+}

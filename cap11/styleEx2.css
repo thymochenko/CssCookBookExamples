@@ -1,0 +1,36 @@
+#collumnLeft {
+  float: left;
+  width: 67%;
+  background: #fff;
+  margin-top: 0;
+  margin-right: 1.67em;
+  border-right: 1px solid black;
+  padding-top: 0;
+  padding-right: 1em;
+  padding-bottom: 20px;
+}
+
+#collumRigth{
+  padding-left: 2em;
+  margin-top: 0;
+  padding-top: 0;
+}
+h1{
+  margin-top: 0;
+  padding-top: 0;
+}
+#footer{
+  clear: both;
+  padding-bottom: 1em;
+  border-top: 1px solid #333;
+  text-align: center;
+}
+#mainColumn{
+  width: 400px;
+  /*padding to compensate left column */
+  padding-left: 200px;
+}
+#navigation{
+  float: left;
+  width: 175px;
+}
